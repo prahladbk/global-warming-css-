@@ -1,0 +1,90 @@
+*{
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FDEFEF;
+}
+span{
+    background-color: #CDBBA7;
+    position: absolute;
+    top: 20px;
+    left: 50px;
+}
+h1{
+    display: inline-block;
+    position: absolute;
+    top: 30px;
+    left: 170px;
+}
+h3{
+    text-align: center;
+    margin: 5px 5px 50px 5px;
+}
+a{
+    text-decoration: none;
+}
+.menu_icon{
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+    right: 10px;
+    position: fixed;
+}
+.bar{
+    height: 5px;
+    width: 35px;
+    background-color: #AD7435;
+    margin: 6px 0;
+    border-radius: 50px;
+}
+.home{
+    position: absolute;
+    right: 200px;
+    top: 30px;
+}
+.about{
+    position: absolute;
+    right: 251px;
+    top: 30px;
+}
+.article{
+    position: absolute;
+    right: 130px;
+    top: 30px;
+}
+.main_container{
+    position: absolute;
+    top: 200px;
+    left: 320px;
+    right: 320px;
+    
+
+  
+}
+.content{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.footer{
+    width: 100%;
+    height: 60px;
+    display: inline-block;
+    background-color: #CDBBA7;
+    position: absolute;
+   bottom: -500px;
+}
+.whatsapp{
+    position: absolute;
+    right: 150px;
+    top: 20px;
+}
+.gmail{
+    position: absolute;
+    right: 100px;
+    top: 20px;
+}
+.telegram{
+    position: absolute;
+    right: 50px;
+    top: 20px;
+}
